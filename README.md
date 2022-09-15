@@ -1,5 +1,7 @@
 <p>Hello everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, whose main focus revolves around web development! Below are some of the technologies that I have worked with in the past! </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&pause=1000&color=1CF60E&width=435&lines=Hello!+My+name+is+Rudy+Nguyen!;I'm+an+aspiring+full-stack+engineer%2C+whos+main+focus+revolves+around+web+development.;whos+main+focus+revolves+around+web+development.;Below+are+some+of+the+technologies+I've+worked+with.)](https://git.io/typing-svg)
+
 
 #### Languages:
 
