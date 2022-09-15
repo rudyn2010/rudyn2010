@@ -1,4 +1,4 @@
-<p>Hi Everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, whose main focus revolves around web development technologies!</p>
+<p>Hi Everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, whose main focus revolves around web development! Down below are some of the technologies that I have worked with in the past! </p>
 
 
 #### Languages:
@@ -36,5 +36,5 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-
+<p align="center"> Learn more about Me! Please do not hesitate to contact me. <p> 
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> </p>
