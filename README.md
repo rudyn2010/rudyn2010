@@ -41,6 +41,8 @@
 <br>
 <br>
 
-<p align="center"> Please feel free to reach out and connect with me!  <p> 
+<p align="center"> Feel free to reach out and connect with me! Thank you for your time! <p> 
+  
+  
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
