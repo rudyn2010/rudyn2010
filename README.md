@@ -1,6 +1,5 @@
-<p>Hello everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, whose main focus revolves around web development! Down below are some of the technologies that I have worked with in the past! </p>
+<p>Hello everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, whose main focus revolves around web development! Below are some of the technologies that I have worked with in the past! </p>
 
-<br>
 
 #### Languages:
 
