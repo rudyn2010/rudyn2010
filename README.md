@@ -1,5 +1,5 @@
-<p>Hi Everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, who's main focus revolves around web development technologies!</p>
-<p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> </p>
+<p>Hi Everyone! My name is Rudy Nguyen and I'm an aspiring full-stack engineer, whose main focus revolves around web development technologies!</p>
+
 
 #### Languages:
 
@@ -34,3 +34,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
+
+<p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> </p>
