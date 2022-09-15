@@ -39,8 +39,8 @@
 
 <br>
 <br>
+<br>
 
-
-<p> Please feel free to reach out and contact me! I'm eager to meet new people and connect with them! <p> 
-<p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> </p>
+<p align="center"> Please feel free to reach out and connect with me!  <p> 
+<p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
