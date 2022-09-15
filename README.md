@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2020&pause=800&color=1CF60E&width=700&lines=Hello!+;My+name+is+Rudy+Nguyen!;I+am+an+aspiring+full-stack+engineer.;Below+are+some+of+the+technologies+I've+learned+along+the+way!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2020&pause=800&color=00FF41&width=700&lines=Hello!+;My+name+is+Rudy+Nguyen!;I+am+an+aspiring+full-stack+engineer.;Below+are+some+of+the+technologies+I've+learned+along+the+way!)](https://git.io/typing-svg)
 
 
 #### Languages:
