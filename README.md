@@ -1,13 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2020&pause=800&color=00FF41&width=700&lines=Hello!+;My+name+is+Rudy+Nguyen!;I+am+an+aspiring+full-stack+engineer.;Below+are+some+of+the+technologies+I've+learned+along+the+way!)](https://git.io/typing-svg)
+Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently enrolled at App Academy. Below are some of the technologies I've picked up and learned through out my journey!
 
+<br>
 
-#### Languages:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Languages%3A)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
-#### Frontend:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Frontend%3A)](https://git.io/typing-svg)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -15,7 +17,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)&nbsp;
 
 
-#### Backend:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
@@ -25,7 +27,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sql&logoColor=BA1212&labelColor=AD0000&color=A90000)&nbsp; 
 
 
-#### Other Tools:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=130&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
@@ -52,6 +54,6 @@
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-nguyen-454b0a242/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudyn2010@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-nguyen-454b0a242/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudyn2010@gmail.com)&nbsp;
 
