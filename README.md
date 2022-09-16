@@ -37,13 +37,17 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-<br>
-<br>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height ="250px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=rudyn2010&theme=radical&hide_border=true" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudyn2010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height ="250px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyn2010&layout=compact&theme=radical&hide_border=true" />
+</a>
+</p>
 
 <p align="center"> Feel free to reach out and connect with me! Thank you for your time! <p> 
-  
-  
+    
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
