@@ -39,7 +39,8 @@
 
 <br>
 <br>
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudyn2010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> Feel free to reach out and connect with me! Thank you for your time! <p> 
   
