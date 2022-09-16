@@ -1,4 +1,4 @@
-Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently enrolled at App Academy. Below are some of the technologies I've picked up and learned through out my journey!
+Hello! My name is Rudy! I'm an aspiring full-stack engineer, currently enrolled at App Academy. Below are some of the technologies I've picked up and learned through out my journey!
 
 <br>
 
@@ -7,6 +7,7 @@ Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently en
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Frontend%3A)](https://git.io/typing-svg)
 
@@ -16,6 +17,7 @@ Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently en
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)&nbsp;
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
 
@@ -26,6 +28,7 @@ Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently en
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sql&logoColor=BA1212&labelColor=AD0000&color=A90000)&nbsp; 
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=130&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
 
@@ -38,6 +41,7 @@ Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently en
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+<br>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -49,11 +53,9 @@ Hello! My name is Rudy Nguyen! I'm an aspiring full-stack engineer, currently en
 </a>
 </p>
 
-<p align="center"> Feel free to reach out and connect with me! Thank you for your time! <p> 
+<p align="center"> Feel free to reach out and connect with me! Thank you for your time! </p>
     
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-nguyen-454b0a242/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudyn2010@gmail.com)&nbsp;
 
