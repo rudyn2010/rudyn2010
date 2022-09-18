@@ -45,11 +45,11 @@ Hello! My name is Rudy! I'm an aspiring full-stack engineer, currently enrolled 
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height ="250px" width="470px" align="center" src="https://github-readme-stats.vercel.app/api?username=rudyn2010&theme=radical&hide_border=true" />
+  <img height ="250px" width="420px" align="center" src="https://github-readme-stats.vercel.app/api?username=rudyn2010&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height ="250px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyn2010&layout=compact&theme=radical&hide_border=true" />
+  <img height ="250px" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyn2010&layout=compact&theme=radical&hide_border=true" />
 </a>
 </p>
 
