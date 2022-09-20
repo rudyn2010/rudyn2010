@@ -17,7 +17,7 @@ Hello! My name is Rudy! I'm an aspiring full-stack engineer, currently enrolled 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)&nbsp;
 
-<br>
+<br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
 
