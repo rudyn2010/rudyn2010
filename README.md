@@ -30,7 +30,7 @@ Hello! My name is Rudy! I'm an aspiring full-stack engineer, currently enrolled 
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=130&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=145&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
