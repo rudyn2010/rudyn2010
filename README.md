@@ -1,4 +1,17 @@
-Hello! My name is Rudy! I'm an aspiring full-stack engineer, currently enrolled at App Academy. Below are some of the technologies I've picked up and learned through out my journey!
+### Hi! My name is Rudy Nguyen and I'm a software engineer, having recently just graduated from App Academy. 
+
+
+When I am not coding, I divide my time between:
+
+```
+* cooking and exploring new and exciting recipes with my girlfriend
+* volunteering at the animal shelter - socializing dogs and cats
+* playing with my very own cat, a chunky little guy named Kae
+* working on my personal health and fitness through weight lifting and rock climbing
+* raiding with my friends on Old School RuneScape 
+```
+
+### Below are some of the technologies I've picked up and learned through out my journey!
 
 <br>
 
@@ -57,5 +70,11 @@ Hello! My name is Rudy! I'm an aspiring full-stack engineer, currently enrolled 
     
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=rudyn2010&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
 
