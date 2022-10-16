@@ -4,13 +4,12 @@
 When I am not coding, I divide my time between:
 
 ```
-* cooking and exploring new and exciting recipes with my girlfriend
+* cooking new and exciting dishing and exploring different cuisines with my girlfriend 
 * volunteering at the animal shelter - socializing dogs and cats
-* playing with my very own cat, a chunky little guy named Kae
+* playing with my own cat, a chunky little guy named Kae
 * working on my personal health and fitness through weight lifting and rock climbing
 * raiding with my friends on Old School RuneScape 
 ```
-
 
 <p align="center"> <img src="https://media.tenor.com/03GqdwC5EuYAAAAC/crazydance-gangnam-style-osrs-runescape-oldschool-dance.gif" /> </p>
 
@@ -73,9 +72,7 @@ When I am not coding, I divide my time between:
     
 <p align="center"> <a href="https://www.linkedin.com/in/rudy-nguyen-454b0a242/">LinkedIn</a> | <a href="https://www.instagram.com/_rudynguyen/?hl=en">Instagram</a> | <a href="https://twitter.com/_rudynguyen">Twitter</a> </p>
 
-
-
-
+<br />
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=rudyn2010&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
