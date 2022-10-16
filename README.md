@@ -11,6 +11,9 @@ When I am not coding, I divide my time between:
 * raiding with my friends on Old School RuneScape 
 ```
 
+
+<p align="center"> <img src="https://media.tenor.com/03GqdwC5EuYAAAAC/crazydance-gangnam-style-osrs-runescape-oldschool-dance.gif" /> </p>
+
 ### Below are some of the technologies I've picked up and learned through out my journey!
 
 <br>
@@ -74,7 +77,7 @@ When I am not coding, I divide my time between:
 
 
 
-
-![](https://komarev.com/ghpvc/?username=rudyn2010&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
-
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=rudyn2010&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+</p>
 
