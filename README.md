@@ -1,4 +1,4 @@
-### Hi! My name is Rudy Nguyen and I'm a software engineer, having recently just graduated from App Academy. 
+### Hi! My name is Rudy Nguyen and I'm a software engineer and web developer, having recently just graduated from App Academy. 
 
 
 When I am not coding, I divide my time between:
